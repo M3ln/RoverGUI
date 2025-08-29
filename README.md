@@ -8,7 +8,7 @@
 5)	управление роботом-доставщиком через джойстик.
 
 <div align="center">
-    <img src="images/gui.jpeg" alt="robot">
+    <img src="images/gui.jpg" alt="robot">
 </div>
 
 ### Стек технологий:  
