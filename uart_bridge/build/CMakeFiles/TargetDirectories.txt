@@ -1,0 +1,10 @@
+/home/nikita/robot_ws/src/uart_bridge/build/CMakeFiles/uninstall.dir
+/home/nikita/robot_ws/src/uart_bridge/build/CMakeFiles/uart_bridge_uninstall.dir
+/home/nikita/robot_ws/src/uart_bridge/build/CMakeFiles/uart_bridge.dir
+/home/nikita/robot_ws/src/uart_bridge/build/CMakeFiles/test.dir
+/home/nikita/robot_ws/src/uart_bridge/build/CMakeFiles/edit_cache.dir
+/home/nikita/robot_ws/src/uart_bridge/build/CMakeFiles/rebuild_cache.dir
+/home/nikita/robot_ws/src/uart_bridge/build/CMakeFiles/list_install_components.dir
+/home/nikita/robot_ws/src/uart_bridge/build/CMakeFiles/install.dir
+/home/nikita/robot_ws/src/uart_bridge/build/CMakeFiles/install/local.dir
+/home/nikita/robot_ws/src/uart_bridge/build/CMakeFiles/install/strip.dir
