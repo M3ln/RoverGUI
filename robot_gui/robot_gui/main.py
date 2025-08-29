@@ -188,7 +188,6 @@ def main(args=None):
         ros_thread.start()
         node.get_logger().info('ROS2-исполнитель запущен в фоне')
 
-        # 🔥 Важно: QTimer вместо threading.Timer
         ping_timer = QtCore.QTimer()
         ping_timer.timeout.connect(ui.ping_cb)  # Таймер будет вызывать ping_cb
         ping_timer.start(1000)  # Интервал в мс (1000 мс = 1 сек)
